@@ -20,7 +20,44 @@ Standard Operating Procedures for TikTok Shop AI affiliate operations.
 
 ---
 
-## 🔧 Tools & Logins
+## 🔧 Tools Used in These SOPs
+
+### SalesSpy — Product Research
+Find viral products by GMV, growth rate, and category.
+
+![SalesSpy Dashboard](images/salespy.png)
+
+---
+
+### Kalodata — Cross-Reference & Validation
+Confirm revenue trends, creator count, and growth rate before committing to a product.
+
+![Kalodata Dashboard](images/kalodata.png)
+
+---
+
+### BatchBot — AI Video Generation (Handheld Products)
+Upload product image → select scene preset → generate AI video in seconds.
+
+![BatchBot Dashboard](images/batchbot.png)
+
+---
+
+### SnapTik — Watermark-Free TikTok Download
+Download viral TikTok videos without watermarks for use in Motion Control.
+
+![SnapTik Tool](images/snaptik.png)
+
+---
+
+### Higgsfield — Kling Motion Control (Women's Clothing)
+Upload character image + reference video → AI applies the motion to your character.
+
+![Higgsfield Platform](images/higgsfield.png)
+
+---
+
+## 🔑 Logins
 
 | Tool | URL | Login |
 |------|-----|-------|
